@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning **AI and Computer Vision**
+- 🌱 I’m currently learning **C++, Rust, AI and Computer Vision**
 
 - 💬 Ask me about **NodeJS, ReactJS**
 
